@@ -21,5 +21,5 @@ permalink: /about/
   Please feel free to contact me :D.
 </p>
 <p>
-  Built with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/amitmerchant1990/reverie">Reverie</a> theme.
+  Built with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/amitmerchant1990/reverie">Reverie</a> theme. Content is under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a>.
 </p>
