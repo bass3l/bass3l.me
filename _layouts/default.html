@@ -11,6 +11,11 @@
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicon.ico">
+    
+    {% if page.image != nil %}
+      <meta property="image_src" content="{{ page.image }}">
+    {% endif %}
+    
   </head>
 
   <body>
