@@ -12,6 +12,11 @@ layout: default
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
+
+      {% if post.image %}
+      <img src="{{ post.image }}" />
+      {% endif %}
+
       <div class="entry">
         {{ post.excerpt | truncatewords: 50 }}
       </div>
