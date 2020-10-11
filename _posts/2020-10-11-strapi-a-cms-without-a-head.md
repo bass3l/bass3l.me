@@ -2,6 +2,7 @@
 layout: post
 title: Strapi - A CMS without a Head
 comments: false
+image: https://res.cloudinary.com/bass3l/image/upload/v1602443853/going-headless_jr13xa.jpg
 ---
 
 Most of the small-to-mid software in all of its types (websites, web apps, mobile apps) are considered simple content systems, which basically show some categorized content that an end-user can interact with, for example:
