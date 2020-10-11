@@ -22,9 +22,9 @@ Well, you are not alone. From the dusk of the web, more than 20 years ago, folks
 
 But that's not what we have now, CMSs should be king and that's not the case. Why? Imagine with me you have a new app you want to design which has some complications, for example having some complicated requirements on a form or you have to build a mobile app for it which requires some kind of an API, a traditional CMS won't simply help, a *Joomla* or a *WordPress* will have you hating your guts while building its plugins and the next person/team who will maintain it will hate it (your guts) as well.
 
-As a developer, you will always seek to have power over the tools, tech and frameworks you're using while building your apps, and a traditional CMS won't give you that, unless you pay hours to gain experience with it.
+As a developer, you will always seek to have power and freedom over the tools, tech and frameworks you're using while building your apps, and a traditional CMS won't give you that, unless you pay hours to gain experience with it.
 
-Well, folks thought of that too. What about a CMS that will give you the means to build on top of it freely? a CMS without a head, i.e. a headless CMS, will try to give the best of both worlds. 
+Well, folks thought of that too. What about a CMS that will give you the means to build on top of it freely and is aimed at developers? a CMS without a head, i.e. a headless CMS, will try to give you the best of both worlds. 
 
 [Strapi](https://strapi.io), a headless CMS, is a one of them that I've been playing around with for the last couple of months. It's built with NodeJS and has the following:
 
